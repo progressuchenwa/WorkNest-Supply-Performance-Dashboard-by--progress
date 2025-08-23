@@ -32,29 +32,28 @@ The dashboard showed:
 - Monthly sales trends.  
 - Key figures like total revenue, number of orders, best-selling product, and average shipping days.  
 
-📸 *Dashboard Preview*  
-![Dashboard Screenshot](images/worknest_dashboard.png)  
 
----
+ **Dashboard Preview**
 
-## 🔍 What I Found  
+![WorkNest Supply Performance Dashboard](https://raw.githubusercontent.com/progressuchenwa/WorkNest-Supply-Performance-Dashboard-by--progress/main/Worknest%20Supplies%20Sales%20performance%20Dashboard.png)
+
+## What I Found  
 A few clear patterns stood out:  
 - The East region was driving the most revenue.  
-- Technology products — especially Office Machines — sold the best.  
+- Technology products, especially Office Machines were sold the best.  
 - Saturday was the strongest sales day.  
 - Shipping was quick, with an average of 2 days from order to delivery.  
 
----
-
-## 💡 Why This Project Matters  
+## Why This Project Matters  
 This project showed me how much impact simple Excel tools can have. Starting with a dataset that looked confusing and messy, I was able to clean it, create useful measures, and build a dashboard that gave real insights.  
-
 It turned raw numbers into a story about where the company earns the most, what products drive sales, and how fast customers receive their orders.  
 
----
 
-## 👩🏽‍💻 About Me  
+## 👩About Me  
 I’m Ukamaka Uchenwa (Progress), a data analyst who enjoys turning messy datasets into stories that make sense.  
 📊 I specialize in Excel dashboards, data cleaning, and analysis with a strong eye for clarity and detail.  
 
-👉 [Connect with me on LinkedIn](https://www.linkedin.com) 
+👉 **Let’s Connect!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ukamaka/)
+
