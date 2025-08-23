@@ -5,33 +5,24 @@ My task was to take this cluttered sheet as a Junior Data Analyst and turn it in
 
 ## Dataset  
 The dataset used in this project can be found here:  
-[Click to View Dataset](data/worknest_raw.xlsx)  
+📊 **[Dataset](https://github.com/progressuchenwa/WorkNest-Supply-Performance-Dashboard-by--progress/blob/main/WorkNest%20Supplies%20Dataset.xlsx)**
 
----
-
-## 🧹 Cleaning and Organizing the Data  
+## Cleaning and Organizing the Data  
 I started by making a copy of the raw data so the original stayed intact. From there, I cleaned it step by step:  
 - Removed duplicates and blank rows.  
 - Formatted text and dates so everything was consistent.  
 - Used VLOOKUP and XLOOKUP to pull in missing customer names and product details.  
-
 By the end of this, the dataset looked cleaner and much easier to work with.  
 
----
-
-## 📊 Creating Useful Metrics  
+## Creating Useful Metrics  
 The raw numbers on their own didn’t tell much, so I built new calculated columns to answer business questions. For example:  
 - How much revenue did we actually earn after discounts?  
 - How fast were orders being shipped?  
 - Which orders counted as high value?  
-
 These calculations helped turn the sheet into something a manager could use to spot trends.  
 
----
-
-## 📈 Building the Dashboard  
+## Building the Dashboard  
 Once the data was ready, I created PivotTables and charts, then brought them together into an interactive Excel dashboard.  
-
 I also added slicers so you could filter by Region or Customer Segment and see the charts update instantly.  
 
 The dashboard showed:  
