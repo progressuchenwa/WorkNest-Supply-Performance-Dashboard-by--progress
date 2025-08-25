@@ -25,7 +25,7 @@ These calculations helped turn the sheet into something a manager could use to s
 Once the data was ready, I created PivotTables and charts, then brought them together into an interactive Excel dashboard.  
 I also added slicers so you could filter by Region or Customer Segment and see the charts update instantly.  
 
-The dashboard showed:  
+**The dashboard showed**:
 - Sales by region (East was the top performer).  
 - Sales by product category (Technology was strongest, especially Office Machines).  
 - Orders by state, highlighting the top 4.  
